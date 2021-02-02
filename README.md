@@ -2,11 +2,11 @@
 ## A game about a baby who wants to climb to the meat implemented in [Pyxel](https://github.com/kitao/pyxel) ##
 Baby Climb Meat is a game created for the [Valid Games Jam](https://itch.io/jam/valid).
 
-# Your mission is to protect Baby from the cold, the heat, and the creatures. #
+### Your mission is to protect Baby from the cold, the heat, and the creatures. ###
 
 ![Screenshot!](https://github.com/ssilverst/baby-climb-meat/blob/master/baby-climb-meat.gif) 
 
-# If your mission succeeds then Baby will reach the meat. #
+### If your mission succeeds then Baby will reach the meat. ###
 ![Screenshot!](https://github.com/ssilverst/baby-climb-meat/blob/master/baby-climb-meat.png)
 
 ## Installation ## 
